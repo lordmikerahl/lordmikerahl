@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there 👋, I'm Michail 
 
-<!--
-**lordmikerahl/lordmikerahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a motivated engineering graduate from Greece looking to combine my materials science skills with machine learning towards developing sustainable and impactful projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages:** Python
+
+**Python Libraries:** NumPy, Pandas, Scikit-Learn, fastai, PyTorch for Bayesian Optimization (Dragonfly, Ax, BayBE)
+
+**Large Language Models:** Experience with prompt engineering for large language models
+
+**Other:** PostgreSQL, MATLAB
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lordmikerahl&count_private=true&show_icons=true&theme=dark" alt="github stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordmikerahl&theme=dark" alt="github streak">
+</p>
+
+## 🤝 Connect
+
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/michail-mitsakis/) or my [E-mail](mitsakismichail@gmail.com)!
