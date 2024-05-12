@@ -12,7 +12,7 @@ I'm a motivated engineering graduate from Greece looking to combine my materials
 
 **Large Language Models:** Experience with prompt engineering for large language models
 
-**Other:** PostgreSQL, MATLAB
+**Other:** PowerBI, PostgreSQL, MATLAB
 
 ## 📊 GitHub Stats
 
